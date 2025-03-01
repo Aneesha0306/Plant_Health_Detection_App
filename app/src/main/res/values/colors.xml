@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_green">#DFF6DD</color> <!-- Soft green -->
+    <color name="dark_green">#4CAF50</color> <!-- Standard green -->
+    <color name="forest_green">#2E7D32</color> <!-- Deep green -->
+    <color name="deep_forest_green">#1B5E20</color> <!-- Darker green -->
+    <color name="earthy_brown">#8D6E63</color> <!-- Natural brown -->
+</resources>
